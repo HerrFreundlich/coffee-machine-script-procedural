@@ -5,7 +5,7 @@ Eine Konsolenanwendung die eine Kaffeemaschine simuliert.
 Meine Idee dahinter war, einfach als Übung, zwei Programme mit den selben Eigenschaften zu schreiben, 
 die aber in verschiedenen Stilen programmiert sind. Einmal Objektorientiert und einmal Funktional.
 
-Dies die Funktionale Variante.
+Dies ist die Funktionale Variante.
 
 Geschrieben in Python
 
