@@ -32,7 +32,9 @@ def greeting():
                        "Press:\n"
                        "1 for Cappuccino\n"
                        "2 for Latte Macchiato\n"
-                       "3 for Espresso\n\n"
+                       "3 for Espresso\n"
+                       "type 'report' for resource report\n"
+                       "type 'off' to end program\n\n"
                        "Your choice: ")
 
     return user_input

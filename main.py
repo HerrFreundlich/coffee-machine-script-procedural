@@ -1,6 +1,5 @@
 from storage import *
 
-
 while True:
     user_choice = greeting()
 
