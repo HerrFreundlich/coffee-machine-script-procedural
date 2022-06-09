@@ -1,4 +1,4 @@
-# coffee-machine-script-functional
+# coffee-machine-script-procedural
 
 Eine Konsolenanwendung die eine Kaffeemaschine simuliert. 
 
